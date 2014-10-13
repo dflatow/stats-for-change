@@ -1,21 +1,26 @@
 ---
 layout: partner
-title: Berkeley CEGA - Partners - Social Data Science
-partner-name: Berkeley Center for Effective Global Action
-partner-url: http://cega.berkeley.edu/
-partner-contact: <a href="mailto:tmadon@berkeley.edu">Temina Madon</a>, Executive Director
-partner-description: CEGA has experience measuring the impacts of large-scale social and economic development programs, using randomized controlled trials and other rigorous methods.
-partner-tags: rct, global-development, poverty
+title: Thorn
+partner-name: Thorn - Digital Defenders of Children
+partner-url: http://www.wearethorn.org/
+partner-contact: <a href="mailto:julie@wearethorn.org">Julie Cordua</a>, Executive Director
+partner-description: Thorn uses technology to fight child trafficking online. They've launched multiple initiatives and have enlisted the help of companies such as Google, Facebook, and Twitter. 
+partner-tags: sexual exploitation, trafficking
 is-full-page: true
+
 ---
 
 <h3>Conversations</h3>
 
-- [Conference call on October 16, 2013](https://workflowy.com/shared/9efc1554-b705-1e27-05bd-a0078681945e/)
-    - Lester Mackey - Stanford
-    - Andreas Stuhlm&uuml;ller - MIT
-    - Temina Madon - CEGA
-    - Matt Podolsky - DIL, TIER
-    - Dav Clark - D-Lab
-    - Emmanuel Letouze - Berkeley
-
+- [Email Exchance October 2014]
+    - David Flatow - Stanford
+  
+   - Programs focus on early deterence of online criminal behavior
+   - Shared image hash that can be used to identify explotative material across the web
+   - Text support for victims of trafficking
+   - Launched Technology Task Force
+   - Sound Practices guide
+   - Launching Data Science Fellowship
+   
+- [Scheduled Conference Call, Oct 15 2014]
+    - David Flatow - Stanford
