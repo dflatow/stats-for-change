@@ -1,15 +1,13 @@
 ---
 layout: partner
-title: Thorn
-partner-name: Thorn - Digital Defenders of Children
-partner-url: http://www.wearethorn.org/
-partner-contact: <a href="mailto:julie@wearethorn.org">Julie Cordua</a>, Executive Director
-partner-description: Thorn uses technology to fight child trafficking online. They've launched multiple initiatives and have enlisted the help of companies such as Google, Facebook, and Twitter. 
-partner-tags: sexual exploitation, trafficking
+title: Berkeley CEGA - Partners - Social Data Science
+partner-name: Berkeley Center for Effective Global Action
+partner-url: http://cega.berkeley.edu/
+partner-contact: <a href="mailto:tmadon@berkeley.edu">Temina Madon</a>, Executive Director
+partner-description: CEGA has experience measuring the impacts of large-scale social and economic development programs, using randomized controlled trials and other rigorous methods.
+partner-tags: rct, global-development, poverty
 is-full-page: true
-
 ---
-
 
 <h3>Conversations</h3>
 
@@ -20,5 +18,4 @@ is-full-page: true
     - Matt Podolsky - DIL, TIER
     - Dav Clark - D-Lab
     - Emmanuel Letouze - Berkeley
-
 
